@@ -131,6 +131,7 @@ body {
 }
 .order {
   /* font */
+  font-family: 'Raleway';
   font-weight: 700;
   font-size: 16px;
   /* decoration */
@@ -170,6 +171,7 @@ body {
 .title-accent {
   /* font */
   font-weight: 700;
+  font-size: 14px;
   /* decoration */
   line-height: 1.14;
   text-transform: uppercase;
@@ -242,6 +244,7 @@ body {
 }
 .button-filter {
   /* font */
+  font-family: 'Raleway';
   font-weight: 500;
   font-size: 16px;
   /* decoration */
