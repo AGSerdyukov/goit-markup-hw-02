@@ -57,7 +57,7 @@ body {
 .logo:hover,
 .logo:focus {
   /* decoration */
-  border: 1px solid #2196f3;
+  /* border: 1px solid #2196f3; */
 }
 /* navigation, li */
 .nav-item,
@@ -131,7 +131,7 @@ body {
 }
 .order {
   /* font */
-  font-family: 'Raleway';
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
   font-weight: 700;
   font-size: 16px;
   /* decoration */
@@ -244,7 +244,7 @@ body {
 }
 .button-filter {
   /* font */
-  font-family: 'Raleway';
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
   font-weight: 500;
   font-size: 16px;
   /* decoration */
